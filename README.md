@@ -1,4 +1,4 @@
-# Pre-Feasibility Framework for Low-Head Coastal Microalgal Cultivation, In-Pond Decanting, and Sand-Capped Burial in Mine Voids
+# Carbon capture using micro-algea and burial in mine pits
 
 **The Solar-Pumped Marine Algae Mine Vault (SPAM-V): A Falsifiable Carbon-Fate and Engineered-Turbidite Architecture**
 
@@ -9,6 +9,9 @@
 The Solar-Pumped Marine Algae Mine Vault (SPAM-V) is a falsifiable engineering and biogeochemical framework designed to evaluate whether low-head coastal microalgal cultivation coupled with agricultural-waste valorization and sand-capped mine-void burial can achieve durable, net-negative atmospheric Carbon Dioxide Removal (CDR). Previous marine biomass burial concepts have been constrained by prohibitive dewatering energy penalties, massive hydraulic transfer volumes, synthetic fertilizer emissions, or unverified open-ocean carbon fate. This revised SPAM-V architecture resolves those bottlenecks through a six-part physical sequence: (1) pumping seawater at ultra-low static head ($\approx 1\text{--}2\text{ m}$) into shallow, plastic-lined (geomembrane) coastal pools adjacent to a deep coastal mine pit; (2) fertilizing the seawater with treated agricultural waste to drive dense microalgal blooms; (3) dosing flocculants directly within the shallow pools to settle the algae in situ; (4) decanting $95\text{--}98\%$ of the clarified supernatant water back to the sea against minimal head ($\approx 1\text{ m}$); (5) gravity-flushing or low-head pumping the remaining concentrated bottom algal sludge into the center of the adjacent deep mine pit; and (6) periodically spreading thin layers of sand over the accumulated benthic mud to drive Terzaghi surcharge consolidation and form laminated, anoxic "engineered turbidites." We contextualize the single-pit and $1,000$-pit global scaling potential against existing CDR pathways and formalize the complete Pool $\times$ Destination state-flux matrix, dimensionally consistent climate-forcing ledger ($\text{tCO}_2\text{e}$), agricultural-carbon attribution rules, and an eight-gate Bayesian falsification sequence.
 
 ---
+
+## Keywords
+Carbon capture, global warming, phytoplankton, algal bloom, mine pit
 
 ## 1. Introduction and Global Carbon Dioxide Removal Context
 
