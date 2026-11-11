@@ -1,4 +1,6 @@
 # Proposal for carbon capture by creating and harvesting algal blooms and its burial in abandoned mine pits
+By: Alireza Sadri
+Affiliation: South Australian Research and Development Instituture, South Austrlia
 
 **The Solar-Pumped Marine Algae Mine Vault (SPAM-V): A Falsifiable Carbon-Fate and Engineered-Turbidite Architecture**
 
