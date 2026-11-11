@@ -1,4 +1,4 @@
-# Pre-Feasibility Framework for Low-Head Coastal Microalgal Cultivation, In-Pond Decanting, and Sand-Capped Burial in Mine Voids
+# Proposal for carbon capture by creating and harvesting algal blooms and its burial in abandoned mine pits
 
 **The Solar-Pumped Marine Algae Mine Vault (SPAM-V): A Falsifiable Carbon-Fate and Engineered-Turbidite Architecture**
 
